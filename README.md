@@ -1,1 +1,2 @@
 # odin-recipes
+This project is designed to teach the basics of HTML. Its first version will use only the basic tags. By the time the project is finished I will have studied the construction of the site page using only HTML document, as well as the behavior of tags.
